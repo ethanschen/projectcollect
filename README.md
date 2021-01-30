@@ -17,3 +17,4 @@
 - [mall4j](https://gitee.com/gz-yami/mall4j)
 - [web-flash](https://gitee.com/enilu/web-flash)
 - [SPTools](https://gitee.com/52itstyle/SPTools)
+- [awesome-java](https://github.com/Snailclimb/awesome-java)
